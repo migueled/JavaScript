@@ -19,5 +19,6 @@ function date( callback ) {//operation
 function printDate( dateNow ) {
     console.log( dateNow )
 }
+
 date( printDate )
 
