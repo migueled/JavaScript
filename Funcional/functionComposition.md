@@ -1,0 +1,2 @@
+# Function Composition
+Conocemos como Function Composition a las funciones que obtenemos como resultado de combinar otras dos o más funciones, el resultado de cada función es el argumento de la siguiente y así sucesivamente.
